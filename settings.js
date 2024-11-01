@@ -20,7 +20,7 @@ global.botscript = 'https://github.com/Joker165/pussybot-MD15' //script link
 global.packname = "ᴸᵒʳᵈⲘⲁⲭⲓⲙⲟⲛ"
 global.author = "𝕀𝕋𝕊 𝕃𝕆ℝ𝔻 𝕄𝔸𝕏𝕀𝕄𝕆ℕ 2349064620494🍀"
 global.creator = "2349064620494@s.whatsapp.net"
-global.xprefix = '!'
+global.xprefix = ','
 global.premium = ["2349064620494"] // Premium User
 
 //channel id
