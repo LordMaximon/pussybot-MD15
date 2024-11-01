@@ -9,19 +9,19 @@ global.socialm = "GitHub: joker165" //ur github or insta name
 global.location = "nigeria, lagos, abuja " //ur location
 
 //new
-global.botname = 'ᴀɴᴛɪsᴏᴄɪᴀʟ ʜᴜᴍɪᴅɪᴛʏ🍀' //ur bot name
-global.ownernumber = ['2348022159244'] //ur owner number, dont add more than one
-global.ownername = 'ᗰ❣️ᖴᗴ 【𓍯】' //ur owner name
+global.botname = '𝐌𝐀𝐗𝐈-𝐌𝐃🍀' //ur bot name
+global.ownernumber = ['2349064620494'] //ur owner number, dont add more than one
+global.ownername = 'ᴸᵒʳᵈⲘⲁⲭⲓⲙⲟⲛ' //ur owner name
 global.websitex = "‎https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 global.wagc = "‎https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 global.themeemoji = '🍀'
-global.wm = "Grey bot inc"
+global.wm = "𝕃𝕆ℝ𝔻𝕄𝔸𝕏𝕀𝕄𝕆ℕ©"
 global.botscript = 'https://github.com/Joker165/pussybot-MD15' //script link
-global.packname = "ᗰ❣️ᖴᗴ 【𓍯】"
-global.author = "ᴀɴᴛɪsᴏᴄɪᴀʟ ʜᴜᴍɪᴅɪᴛʏ🍀"
-global.creator = "2348022159244@s.whatsapp.net"
+global.packname = "ᴸᵒʳᵈⲘⲁⲭⲓⲙⲟⲛ"
+global.author = "𝕀𝕋𝕊 𝕃𝕆ℝ𝔻 𝕄𝔸𝕏𝕀𝕄𝕆ℕ 2349064620494🍀"
+global.creator = "2349064620494@s.whatsapp.net"
 global.xprefix = '!'
-global.premium = ["2348022159244"] // Premium User
+global.premium = ["2349064620494"] // Premium User
 
 //channel id
 global.xchannel = {
